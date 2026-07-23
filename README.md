@@ -161,11 +161,11 @@ We disclose these openly rather than presenting the reproduction as a perfect ma
 If you use this code, please cite the original paper (details to be added upon publication).
 
 ```bibtex
-@article{TODO,
+@article{xxxx,
   title   = {Lightweight Low-SNR-Robust Semantic Communication System for Autonomous Driving},
-  author  = {TODO},
-  journal = {TODO},
-  year    = {TODO}
+  author  = {Ruixing Ren; Minjie Wei; Junhui Zhao},
+  journal = {Ad hoc networks},
+  year    = {2026}
 }
 ```
 
